@@ -1,0 +1,26 @@
+{
+  "name": "nytreact",
+  "version": "1.0.0",
+  "description": "react app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grady407/nytreact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grady407/nytreact/issues"
+  },
+  "homepage": "https://github.com/Grady407/nytreact#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.11",
+    "morgan": "^1.9.0"
+  }
+}
